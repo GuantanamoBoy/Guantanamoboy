@@ -1,11 +1,11 @@
 # :boom: **GB21**
 I am an individual validator and blockchain enthusiast.
 
-I have more than 3yrs of experience in running nodes on various mainnets and testnets. 
+I have more than 3 years of experience in running nodes on various mainnets and testnets. 
 
-I specialise on Cosmos ecosystem - validating and maintaining relayers
+I specialise on Cosmos ecosystem - validating and maintaining relayers.
 
-24x7 management and monitoring! (Grafana and telegram alerts) 
+24x7 management and monitoring! (Grafana and telegram alerts). 
 
 ### :boom: **My current Mainnet validators:**
 

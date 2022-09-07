@@ -1,4 +1,4 @@
-# :boom: **GB21**
+# :boom: **GB21 Validator**
 
 I am an individual validator and blockchain enthusiast.
 
@@ -18,11 +18,11 @@ Canto: https://mainnet.manticore.team/canto/staking/cantovaloper14hr6ew8jcdhslnx
 
 Mina: https://mina.staketab.com/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance
 
-### :boom: **My current Testnet validators**
+### :boom: **My current Testnet validators:**
 
 Near, Territori, Haqq, Near, Kyve, Stride, Sei, Starknet, Massa, Ironfish, Aleo
 
-### :boom: **My past Testnet validators**
+### :boom: **My past Testnet validators:**
 
 Hopr, Keep, Graph, Nym, Spacemesh, Casper, Subspace, Subquery 
 
@@ -35,7 +35,7 @@ Memory - 6.8 TB NVMe
 
 Bandwidth - 1 Gbit/s-Port
 
-### :boom: **Socials**
+### :boom: **Socials:**
 
 GitHub https://github.com/GuantanamoBoy
 

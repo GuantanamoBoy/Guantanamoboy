@@ -44,8 +44,8 @@ More than 50 incentivized testnets and ambassador campaigns.
             </td>
                     <td width="130px" align="center">
             <span><strong>Uptick</strong></span><br><br />
-            <a href="№" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://uptick.explorers.guru/validator/uptickvaloper1m280rc5q0mkc3x89qzk2d2qz5h60y4j8yxzjsd">
+            <a href="https://uptick.explorers.guru/validator/uptickvaloper1m280rc5q0mkc3x89qzk2d2qz5h60y4j8yxzjsd" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1622159211772903428/ZwCiwcR8_400x400.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />

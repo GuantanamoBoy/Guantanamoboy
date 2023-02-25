@@ -82,7 +82,7 @@ More than 50 incentivized testnets and ambassador campaigns.
 </table>                  
                               
                  
-            <h2 align="center">#</h2>
+<h2 align="center">#</h2>
 
 <table width="350px" align="center">
     <tbody>

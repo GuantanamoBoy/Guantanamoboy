@@ -8,6 +8,8 @@ I specialise on Cosmos ecosystem - validating and maintaining relayers.
 
 More than 50 incentivized testnets and ambassador campaigns.
 
+<h2 align="center">My current Mainnet validators</h2>
+
 <table width="350px" align="center">
     <tbody>
         <tr valign="top">
@@ -18,13 +20,13 @@ More than 50 incentivized testnets and ambassador campaigns.
             </td>
             <td width="130px" align="center">
             <span><strong>Forta</strong></span><br><br />
-            <a href="https://app.forta.network/scan-node/0x211bf823b9aa19255aeec0452910775bc84696e1" target="_blank" rel="noopener noreferrer">
+            <a href="https://app.forta.network/profile/0x537Df729085D26Ec89d0F503fDb52650eCEC0BB4" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/forta.jpg">
             </td>
              <td width="130px" align="center">
-            <span><strong>Stride</strong></span><br><br />
-            <a href="https://stride.explorers.guru/validator/stridevaloper1ylwlnhkn7xrf5xha4ahm72zgqkw35v6q564mrf" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/stride.png">
+            <span><strong>Mina</strong></span><br><br />
+            <a href="https://minascan.io/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1310958947357077504/JM4_vQ34_400x400.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Idep</strong></span><br><br />

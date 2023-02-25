@@ -8,15 +8,84 @@ I specialise on Cosmos ecosystem - validating and maintaining relayers.
 
 More than 50 incentivized testnets and ambassador campaigns.
 
-# **Solana**      
+<table width="350px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Solana</strong></span><br><br />
+            <a href="https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/solanaLogoMark.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Forta</strong></span><br><br />
+            <a href="https://app.forta.network/scan-node/0x211bf823b9aa19255aeec0452910775bc84696e1" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/forta.jpg">
+            </td>
+             <td width="130px" align="center">
+            <span><strong>Stride</strong></span><br><br />
+            <a href="https://stride.explorers.guru/validator/stridevaloper1ylwlnhkn7xrf5xha4ahm72zgqkw35v6q564mrf" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/stride.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Idep</strong></span><br><br />
+            <a href="https://atomscan.com/idep/validators/idepvaloper1qnshchnpvtcx9uu3fytce25lk7qyxqklgym5sv" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/Idep.jpg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
+<h2 align="center">My current Testnet validators</h2>
 
-![image](https://user-images.githubusercontent.com/35631513/221364290-d8dccebc-2ac0-476b-94e4-da2c0b80a5bf.png) 
+Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
+<table width="350px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Solana</strong></span><br><br />
+            <a href="https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/solanaLogoMark.png">
+            </td>
+                <td width="130px" align="center">
+            <span><strong>Territori</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/teritori.png">
+            </td>
+                    <td width="130px" align="center">
+            <span><strong>Haqq</strong></span><br><br />
+            <a href="№" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/haqq.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Sei</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/sei.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Starknet</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/Group-177.svg">
+            </td>
+                <td width="130px" align="center">
+            <span><strong>Massa</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/p0i_pJsR_400x400.jpg">
+            </td>
+                    <td width="130px" align="center">
+            <span><strong>Ironfish</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+                           <td width="130px" align="center">
+            <span><strong>Aleo</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-# **Forta**
-
-
-![image](https://user-images.githubusercontent.com/35631513/221364700-d5fef016-7ce5-4767-9305-e7e47d09b363.png)
+<h2 align="center">Hardware</h2>
 
 
 

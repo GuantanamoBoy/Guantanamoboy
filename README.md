@@ -69,8 +69,8 @@ More than 50 incentivized testnets and ambassador campaigns.
             </td>
                            <td width="130px" align="center">
             <span><strong>Aleo</strong></span><br><br />
-            <a href="https://pbs.twimg.com/profile_images/1485936059707965446/qM-hjbty_400x400.png" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="#">
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1485936059707965446/qM-hjbty_400x400.png">
             </td>
         </tr>
     </tbody>

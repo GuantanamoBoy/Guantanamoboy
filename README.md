@@ -28,18 +28,12 @@ More than 50 incentivized testnets and ambassador campaigns.
             <a href="https://minascan.io/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1310958947357077504/JM4_vQ34_400x400.png">
             </td>
-            <td width="130px" align="center">
-            <span><strong>Idep</strong></span><br><br />
-            <a href="https://atomscan.com/idep/validators/idepvaloper1qnshchnpvtcx9uu3fytce25lk7qyxqklgym5sv" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src=https://metilnodes.com/wp-content/uploads/2022/12/uptick-1.png>
-            </td>
         </tr>
     </tbody>
 </table>
 
 <h2 align="center">My current Testnet validators</h2>
 
-Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
 <table width="350px" align="center">
     <tbody>
         <tr valign="top">

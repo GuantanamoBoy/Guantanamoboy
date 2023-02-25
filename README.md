@@ -65,11 +65,11 @@ More than 50 incentivized testnets and ambassador campaigns.
                     <td width="130px" align="center">
             <span><strong>Ironfish</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="#">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1367581984986296320/kxDDjheA_400x400.jpg">
             </td>
                            <td width="130px" align="center">
             <span><strong>Aleo</strong></span><br><br />
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://pbs.twimg.com/profile_images/1485936059707965446/qM-hjbty_400x400.png" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="#">
             </td>
         </tr>

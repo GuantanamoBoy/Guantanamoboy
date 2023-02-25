@@ -1,4 +1,4 @@
-# :boom: **GB21 Validator**
+# :boom: **GB21*
 
 I am an individual validator, ambassador and defi degen.
 
@@ -129,15 +129,43 @@ More than 50 incentivized testnets and ambassador campaigns.
 
 ### :boom: **Hardware:**
 Location - Hetzner, Finland
+
 Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
+
 Memory - 6.8 TB NVMe
+
 Bandwidth - 1 Gbit/s-Port
 
 ### :boom: **Socials:**
 
 GitHub https://github.com/GuantanamoBoy
+
 Twitter https://twitter.com/tre6ent
+
 Discord GuantanamoBoy#6142
 
+*Ambassodor portfolio*:
+<h2 align="center">My current Mainnet validators</h2>
 
+<table width="350px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Solana</strong></span><br><br />
+            <a href="https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/solanaLogoMark.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Forta</strong></span><br><br />
+            <a href="https://app.forta.network/profile/0x537Df729085D26Ec89d0F503fDb52650eCEC0BB4" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/forta.jpg">
+            </td>
+             <td width="130px" align="center">
+            <span><strong>Mina</strong></span><br><br />
+            <a href="https://minascan.io/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1310958947357077504/JM4_vQ34_400x400.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
 

@@ -76,7 +76,14 @@ More than 50 incentivized testnets and ambassador campaigns.
             <span><strong>Stride</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png">
-            </td>
+            
+                <h2 align="center">My current Testnet validators</h2>
+
+<table width="350px" align="center">
+    <tbody>
+        <tr valign="top">
+                
+                </td>
                           <td width="130px" align="center">
             <span><strong>KYVE</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">

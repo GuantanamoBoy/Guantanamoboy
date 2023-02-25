@@ -141,12 +141,12 @@ Bandwidth - 1 Gbit/s-Port
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>Sei role Major</strong></span><br><br />
+            <span><strong>Sei Major</strong></span><br><br />
             <a href="https://heather-viola-5f6.notion.site/Tweets-Portfolio-8ae03fc11fb8400e8ab790f94b3d939c" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/sei.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>Massa campaign</strong></span><br><br />
+            <span><strong>Massa</strong></span><br><br />
             <a href="https://medium.com/@giuseppeboeing" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/p0i_pJsR_400x400.jpg">
             </td>

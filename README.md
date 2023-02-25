@@ -8,11 +8,11 @@ I specialise on Cosmos ecosystem - validating and maintaining relayers.
 
 More than 50 incentivized testnets and ambassador campaigns.
 
-# **Solana**      **Forta**
+# **Solana**      # **Forta**
 
 
 ![image](https://user-images.githubusercontent.com/35631513/221364290-d8dccebc-2ac0-476b-94e4-da2c0b80a5bf.png) 
-![image](https://user-images.githubusercontent.com/35631513/221364708-fa648824-1d69-42ca-a6f4-389bc7732c4f.png)
+
 
 
 

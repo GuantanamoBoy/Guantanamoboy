@@ -37,20 +37,15 @@ More than 50 incentivized testnets and ambassador campaigns.
 <table width="350px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>Solana</strong></span><br><br />
-            <a href="https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/solanaLogoMark.png">
-            </td>
                 <td width="130px" align="center">
-            <span><strong>Territori</strong></span><br><br />
-            <a href="#" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/teritori.png">
+            <span><strong>Haqq</strong></span><br><br />
+            <a href="https://haqq.explorers.guru/validator/haqqvaloper1cqx2yfr99zg3wwjzg0y2tu3wh2cjf8u3e4u56a" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/haqq.png">
             </td>
                     <td width="130px" align="center">
-            <span><strong>Haqq</strong></span><br><br />
+            <span><strong>Uptick</strong></span><br><br />
             <a href="№" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/haqq.png">
+            <img height="40px" src="https://uptick.explorers.guru/validator/uptickvaloper1m280rc5q0mkc3x89qzk2d2qz5h60y4j8yxzjsd">
             </td>
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />

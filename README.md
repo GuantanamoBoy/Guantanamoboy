@@ -1,14 +1,19 @@
 # :boom: **GB21 Validator**
 
-I am an individual validator and blockchain enthusiast.
+I am an individual validator, ambassador and defi degen.
 
 I have more than 3 years of experience in running nodes on various mainnets and testnets. 
 
 I specialise on Cosmos ecosystem - validating and maintaining relayers.
 
-24x7 management and monitoring! (Grafana and telegram alerts). 
+More than 50 incentivized testnets and ambassador campaigns.
 
-### :boom: **My current Mainnet validators:**
+Forta
+![image](https://user-images.githubusercontent.com/35631513/221364290-d8dccebc-2ac0-476b-94e4-da2c0b80a5bf.png)
+
+
+
+Mainnet validators
 
 Forta: https://app.forta.network/scan-node/0x73cbcbac831bddff37eb62b883025a2c5e5825c8?_gl=1*pmswv*_ga*OTgyMTA5NTQ4LjE2NjI1NjE3NDk.*_ga_3ERDDVRGQQ*MTY2MjU2MTc0OS40MS4xLjE2NjI1NjE3ODAuMC4wLjA.
 

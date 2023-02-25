@@ -82,7 +82,7 @@ More than 50 incentivized testnets and ambassador campaigns.
 </table>                  
                               
                  
-<h2 align="center">#</h2>
+<h2 align="center">Past validation</h2>
 
 <table width="350px" align="center">
     <tbody>
@@ -111,6 +111,17 @@ More than 50 incentivized testnets and ambassador campaigns.
             <span><strong>Subquery</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1359160724220768261/IrdSpNIE_400x400.jpg">
+                 </td>
+                          <td width="130px" align="center">
+            <span><strong>Casper</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="![image](https://user-images.githubusercontent.com/35631513/221367434-072a36f1-2b35-42d0-a32e-b6d8fe38a19b.png)
+">
+                </td>
+                          <td width="130px" align="center">
+            <span><strong>Graph</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1341100720943054848/C4RKAej-_400x400.jpg">
         </tr>
     </tbody>
 </table>
@@ -120,13 +131,7 @@ More than 50 incentivized testnets and ambassador campaigns.
 
 
 
-Mainnet validators
 
-Forta: https://app.forta.network/scan-node/0x73cbcbac831bddff37eb62b883025a2c5e5825c8?_gl=1*pmswv*_ga*OTgyMTA5NTQ4LjE2NjI1NjE3NDk.*_ga_3ERDDVRGQQ*MTY2MjU2MTc0OS40MS4xLjE2NjI1NjE3ODAuMC4wLjA.
-
-Canto: https://mainnet.manticore.team/canto/staking/cantovaloper14hr6ew8jcdhslnxnqj2yz8u8t7lu5tznr0s9cd
-
-Mina: https://mina.staketab.com/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance
 
 ### :boom: **My current Testnet validators:**
 

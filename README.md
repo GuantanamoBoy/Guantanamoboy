@@ -115,8 +115,7 @@ More than 50 incentivized testnets and ambassador campaigns.
                           <td width="130px" align="center">
             <span><strong>Casper</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="![image](https://user-images.githubusercontent.com/35631513/221367434-072a36f1-2b35-42d0-a32e-b6d8fe38a19b.png)
-">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1614929805614452739/VXKtIZdP_400x400.png">
                 </td>
                           <td width="130px" align="center">
             <span><strong>Graph</strong></span><br><br />
@@ -128,32 +127,17 @@ More than 50 incentivized testnets and ambassador campaigns.
 
 <h2 align="center">Hardware</h2>
 
-
-
-
-
-
-### :boom: **My current Testnet validators:**
-
-Near, Haqq, Kyve, Sei, Starknet, Massa, Ironfish, Aleo, Namada, Okp4, Uptick, Sui, Houston
-
-### :boom: **My past Testnet validators:**
-
-Hopr, Keep, Graph, Nym, Spacemesh, Casper, Subspace, Subquery, Stide, Teritory 
-
 ### :boom: **Hardware:**
 Location - Hetzner, Finland
-
 Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
-
 Memory - 6.8 TB NVMe
-
 Bandwidth - 1 Gbit/s-Port
 
 ### :boom: **Socials:**
 
 GitHub https://github.com/GuantanamoBoy
-
 Twitter https://twitter.com/tre6ent
-
 Discord GuantanamoBoy#6142
+
+
+

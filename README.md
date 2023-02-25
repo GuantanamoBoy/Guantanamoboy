@@ -135,7 +135,7 @@ Memory - 6.8 TB NVMe
 
 Bandwidth - 1 Gbit/s-Port
 
-<h2 align="center">Ambassador portfolio</h2>
+<h2 align="center">Ambassador portfolio (click on logos to see some of the works</h2>
 
 <table width="350px" align="center">
     <tbody>

@@ -1,4 +1,4 @@
-# :boom: **GB21*
+# :boom: *GB21*
 
 I am an individual validator, ambassador and defi degen.
 
@@ -135,15 +135,6 @@ Memory - 6.8 TB NVMe
 
 Bandwidth - 1 Gbit/s-Port
 
-### :boom: **Socials:**
-
-GitHub https://github.com/GuantanamoBoy
-
-Twitter https://twitter.com/tre6ent
-
-Discord GuantanamoBoy#6142
-
-
 <h2 align="center">Ambassador portfolio</h2>
 
 <table width="350px" align="center">
@@ -155,7 +146,7 @@ Discord GuantanamoBoy#6142
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/sei.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>Massa ambassador</strong></span><br><br />
+            <span><strong>Massa campaign</strong></span><br><br />
             <a href="https://medium.com/@giuseppeboeing" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/p0i_pJsR_400x400.jpg">
             </td>
@@ -163,3 +154,12 @@ Discord GuantanamoBoy#6142
     </tbody>
 </table>
 
+### :boom: **Socials:**
+
+GitHub https://github.com/GuantanamoBoy
+
+Medium https://medium.com/@giuseppeboeing
+
+Twitter https://twitter.com/tre6ent
+
+Discord GuantanamoBoy#6142

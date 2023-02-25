@@ -29,7 +29,7 @@ More than 50 incentivized testnets and ambassador campaigns.
             <td width="130px" align="center">
             <span><strong>Idep</strong></span><br><br />
             <a href="https://atomscan.com/idep/validators/idepvaloper1qnshchnpvtcx9uu3fytce25lk7qyxqklgym5sv" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="![image](https://user-images.githubusercontent.com/35631513/221365160-c7109d74-d446-402e-a225-321353f218ee.png)">
+            <img height="40px" src=https://metilnodes.com/wp-content/uploads/2022/12/uptick-1.png>
             </td>
         </tr>
     </tbody>

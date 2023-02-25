@@ -86,9 +86,7 @@ More than 50 incentivized testnets and ambassador campaigns.
 
 <table width="350px" align="center">
     <tbody>
-        <tr valign="top">**                  
-                              
-                              
+        <tr valign="top">                              
                           <td width="130px" align="center">
             <span><strong>KYVE</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">

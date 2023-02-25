@@ -72,6 +72,41 @@ More than 50 incentivized testnets and ambassador campaigns.
             <a href="#" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1485936059707965446/qM-hjbty_400x400.png">
             </td>
+                          <td width="130px" align="center">
+            <span><strong>Stride</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1538942713965445120/S9IIkgPS_400x400.png">
+            </td>
+                          <td width="130px" align="center">
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1612460371951980544/3rLQs2Ee_400x400.jpg">
+            </td>
+                          <td width="130px" align="center">
+            <span><strong>Territori</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1545419250906660864/XfukKhac_400x400.jpg">
+            </td>
+                          <td width="130px" align="center">
+            <span><strong>NYM</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1509970415573258243/s--z1FnZ_400x400.jpg">
+            </td>
+                          <td width="130px" align="center">
+            <span><strong>Humanode</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1577660492662951939/4q1DV_mC_400x400.jpg">
+            </td>
+                          <td width="130px" align="center">
+            <span><strong>Subquery</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1359160724220768261/IrdSpNIE_400x400.jpg">
+                         
+                               
+                               
+                               
+                               
+                               
         </tr>
     </tbody>
 </table>

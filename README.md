@@ -23,6 +23,11 @@ More than 50 incentivized testnets and ambassador campaigns.
             <a href="https://app.forta.network/profile/0x537Df729085D26Ec89d0F503fDb52650eCEC0BB4" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/forta.jpg">
             </td>
+               <td width="130px" align="center">
+            <span><strong>Uptick</strong></span><br><br />
+            <a href="https://uptick.explorers.guru/validator/uptickvaloper1m280rc5q0mkc3x89qzk2d2qz5h60y4j8yxzjsd" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1622159211772903428/ZwCiwcR8_400x400.jpg">
+            </td>
              <td width="130px" align="center">
             <span><strong>Mina</strong></span><br><br />
             <a href="https://minascan.io/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance" target="_blank" rel="noopener noreferrer">
@@ -41,11 +46,6 @@ More than 50 incentivized testnets and ambassador campaigns.
             <span><strong>Haqq</strong></span><br><br />
             <a href="https://haqq.explorers.guru/validator/haqqvaloper1cqx2yfr99zg3wwjzg0y2tu3wh2cjf8u3e4u56a" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/haqq.png">
-            </td>
-                    <td width="130px" align="center">
-            <span><strong>Uptick</strong></span><br><br />
-            <a href="https://uptick.explorers.guru/validator/uptickvaloper1m280rc5q0mkc3x89qzk2d2qz5h60y4j8yxzjsd" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1622159211772903428/ZwCiwcR8_400x400.jpg">
             </td>
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />

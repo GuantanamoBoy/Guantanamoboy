@@ -2,7 +2,7 @@
 
 I am an individual validator, ambassador and defi degen.
 
-I have more than 3 years of experience in running nodes on various mainnets and testnets. 
+I have more than 4 years of experience in running nodes on various mainnets and testnets. 
 
 I specialise on Cosmos ecosystem - validating and maintaining relayers.
 

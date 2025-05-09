@@ -30,7 +30,7 @@ More than 50 incentivized testnets and ambassador campaigns.
             </td>
              <td width="130px" align="center">
             <span><strong>Mina</strong></span><br><br />
-            <a href="[https://minascan.io/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance](https://minascan.io/mainnet/validator/B62qjj1M1JdKHyrbTj6Fk2BhG1SpLnBbaKfiQMTRPR5FSxhNT1LLUCK/delegations)" target="_blank" rel="noopener noreferrer">
+            <a href="https://minascan.io/mainnet/validator/B62qjzxp6eVbn4YWBrNfhodex1RzKi29tXyqttBuBCGbf6mhT9MMg3o/delegations?limit=50&orderBy=DESC&page=0&searchStr=&sortBy=balance](https://minascan.io/mainnet/validator/B62qjj1M1JdKHyrbTj6Fk2BhG1SpLnBbaKfiQMTRPR5FSxhNT1LLUCK/delegations)" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1310958947357077504/JM4_vQ34_400x400.png">
             </td>
         </tr>
